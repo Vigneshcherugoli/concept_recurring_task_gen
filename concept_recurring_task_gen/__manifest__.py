@@ -9,7 +9,7 @@
         You can define a recurrence pattern (e.g., every week on Monday and Thursday)
         and the system will show a preview of the next 5 upcoming dates.
     """,
-    'author': "Concept Solutions",
+    'author': "Concept Solutions LLC",
     'website': "https://www.csloman.com/",
     'category': 'Project',
     'version': '17.0.1.0.0',
